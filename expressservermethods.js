@@ -7,7 +7,8 @@ var users = { 10 : { "name":"kiran", phoneno : 98353426},
               11 : { "name":"swapna", phoneno : 99353429},
               12 : { "name":"tony", phoneno : 56555555},
               14 : { "name":"shafna", phoneno : 789534528},
-              15 : { "name":"reena", phoneno : 9449534528}
+              15 : { "name":"reena", phoneno : 9449534528},
+              16 : { "name":"amal", phoneno : 84534528}
             }
 /*app.use(cors({
         origin: 'http://localhost:4200' // Allow requests from your Angular app
