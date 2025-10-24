@@ -13,7 +13,7 @@ var users = { 10 : { "name":"kiran", phoneno : 98353426},
 /*app.use(cors({
         origin: 'http://localhost:4200' // Allow requests from your Angular app
     }));*/
-
+//Allow All Clients
 app.use(cors()); 
 app.use(bodyParser.urlencoded({extended:true}));   
 
